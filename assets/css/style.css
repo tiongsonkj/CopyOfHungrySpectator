@@ -1,0 +1,79 @@
+#navbar-brand{
+	background-color: #8bd6ba;
+}
+
+.jumbotron{
+	border-radius: 0;
+}
+.custom-select{
+	border-radius: 0;
+	height: 50px;
+	width: 100%;
+}
+#smallbinoculars{
+	max-height: 60px;
+	max-width: 60px;
+}
+#logo{
+	max-height: 150px;
+	max-width: 150px;
+    padding: .25rem;
+    /*background-color: #fff;*/
+    /*border: 1px solid #ddd;
+    border-radius: .25rem;*/
+    transition: all .2s ease-in-out;
+    height: auto;
+}
+#search-button:hover{
+	color: #FF9933;
+}
+.btn-search,
+#search-term,
+#search-icon{
+	outline: none;
+	border: none;
+	border-radius: 0;
+}
+footer{
+	padding: 20px 20px;
+	margin-top: 20px;
+}
+.dropdown{
+	margin-right: 10px;
+}
+.card{
+	margin-bottom: 10px;
+}
+.card-body > button{
+	margin-bottom: 5px;
+	background-color: #8bd6ba;
+	color: black;
+	border: 2px solid #343A40;
+}
+.card-body > button:hover{
+	background-color: #FF9933;
+	color: black;
+}
+.bg-white{
+	background-color: #FFF;
+}
+
+//*#contact{
+	margin-left: 500px;
+}*//
+.foodContent p{
+	margin: 0;
+	padding: 0;
+}
+#map-area,
+#weather-area{
+	height: 300px;
+}
+.weather-icon{
+	width: 100px;
+	height: auto;
+}
+#weather-area p{
+	margin: 0;
+	padding: 0;
+}
